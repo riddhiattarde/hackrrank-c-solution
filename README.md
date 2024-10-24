@@ -1,2 +1,2 @@
-# hackrrank-c-solution
+# hackrrank-cpp-solution
 solution to hackrrank C++ (CPP) challenges 
